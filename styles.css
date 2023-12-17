@@ -70,8 +70,3 @@ text-align: center;
   }
 }
 
-@media (max-width: 1440px) {
-  .container {
-    width: 1440px;
-  }
-}
